@@ -27,5 +27,6 @@ The general process for ARIMA models is the following:
     q MA lags
 
 # Final Forecasted Sales for next two years
-![Output](https://github.com/ShubhiGupta15/Time-Series-Forecasting/assets/79734129/1611f089-c2a3-4ada-865c-872f497e7460)
+![Output](https://github.com/ShubhiGupta15/Time-Series-Forecasting/assets/79734129/c10704c0-374b-4dcb-b1b8-e4bf794bf6cd)
+
 
